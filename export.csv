@@ -1,0 +1,127 @@
+AdvisoryNumber,Date,Lat,Long,Wind,Pres,Movement,stormtypeName,Name,Received,Forecaster
+1,"2021-05-22 10:00:00",34.2,-62.2,45,1006,"WSW at 3 MPH","Subtropical Storm",Ana,"2021-05-22 04:47:49",Cangialosi
+1A,"2021-05-22 13:00:00",34.2,-62.5,45,1006,"WSW at 3 MPH","Subtropical Storm",Ana,"2021-05-22 07:50:37",Beven
+2,"2021-05-22 16:00:00",34.3,-63,45,1006,"W at 3 MPH","Subtropical Storm",Ana,"2021-05-22 10:53:35",Beven
+3,"2021-05-22 22:00:00",34.5,-62.4,40,1007,"NE at 5 MPH","Subtropical Storm",Ana,"2021-05-22 16:41:50",Beven
+4,"2021-05-23 04:00:00",35,-61.4,45,1006,"NE at 9 MPH","Subtropical Storm",Ana,"2021-05-22 22:53:44",Papin/Brown
+5,"2021-05-23 10:00:00",35.7,-60.5,45,1006,"NE at 12 MPH","Tropical Storm",Ana,"2021-05-23 04:41:37",Cangialosi
+6,"2021-05-23 16:00:00",36.6,-59.4,40,1007,"NE at 14 MPH","Tropical Storm",Ana,"2021-05-23 10:59:35",Latto
+7,"2021-05-23 22:00:00",37.5,-57.7,35,1008,"NE at 17 MPH","Tropical Depression",Ana,"2021-05-23 16:56:57",Latto
+8,"2021-05-24 04:00:00",38.3,-55.2,40,1007,"NE at 28 MPH","Post-Tropical Cyclone",Ana,"2021-05-23 22:47:50",Reinhart/Brown
+1,"2021-06-14 16:00:00",35,-73.7,35,1006,"NE at 21 MPH","Tropical Depression",Two,"2021-06-14 10:57:16",Blake
+2,"2021-06-14 22:00:00",35.5,-72,35,1006,"NE at 18 MPH","Tropical Depression",Two,"2021-06-14 16:48:32",Blake
+3,"2021-06-15 04:00:00",36.7,-69.8,45,1003,"NE at 23 MPH","Tropical Storm",Bill,"2021-06-14 22:48:30",Pasch
+5,"2021-06-15 16:00:00",40.5,-62,60,998,"NE at 38 MPH","Tropical Storm",Bill,"2021-06-15 10:38:55",Cangialosi
+6,"2021-06-15 22:00:00",41.6,-59.6,60,998,"NE at 36 MPH","Tropical Storm",Bill,"2021-06-15 16:36:31",Cangialosi
+7,"2021-06-16 04:00:00",43.5,-57,50,1002,"NE at 29 MPH","Post-Tropical Cyclone",Bill,"2021-06-15 22:39:42",Beven
+1,"2021-06-17 22:00:00",22.9,-92.4,30,1008,"N at 9 MPH","Potential Tropical Cyclone",Three,"2021-06-17 16:51:18",Pasch
+1A,"2021-06-18 01:00:00",23.2,-92.3,30,1007,"N at 9 MPH","Potential Tropical Cyclone",Three,"2021-06-17 19:41:59",Beven
+2,"2021-06-18 04:00:00",23.5,-92.2,30,1007,"N at 9 MPH","Potential Tropical Cyclone",Three,"2021-06-17 22:45:37",Beven
+2A,"2021-06-18 07:00:00",24,-92,35,1007,"N at 9 MPH","Potential Tropical Cyclone",Three,"2021-06-18 01:42:39",Blake
+3,"2021-06-18 10:00:00",25.2,-91.5,35,1007,"N at 14 MPH","Potential Tropical Cyclone",Three,"2021-06-18 05:00:12",Blake
+3A,"2021-06-18 13:00:00",26,-91.5,35,1007,"N at 14 MPH","Potential Tropical Cyclone",Three,"2021-06-18 07:39:21",Cangialosi
+4,"2021-06-18 16:00:00",26.5,-91.1,35,1007,"NNE at 14 MPH","Potential Tropical Cyclone",Three,"2021-06-18 10:45:11",Cangialosi
+4A,"2021-06-18 19:00:00",27.3,-91.1,45,1007,"N at 14 MPH","Potential Tropical Cyclone",Three,"2021-06-18 13:54:31",Cangialosi
+5,"2021-06-18 22:00:00",27.9,-91.2,45,1006,"N at 16 MPH","Potential Tropical Cyclone",Three,"2021-06-18 16:38:55",Cangialosi
+5A,"2021-06-19 01:00:00",28.3,-91.1,45,1007,"N at 16 MPH","Potential Tropical Cyclone",Three,"2021-06-18 19:54:07",Beven
+6,"2021-06-19 04:00:00",28.9,-90.9,45,1007,"N at 13 MPH","Potential Tropical Cyclone",Three,"2021-06-18 22:44:58",Beven
+6A,"2021-06-19 07:00:00",29.1,-91,45,1006,"N at 10 MPH","Potential Tropical Cyclone",Three,"2021-06-19 01:57:28",Blake
+7A,"2021-06-19 13:00:00",30.4,-90.1,45,1006,"NNE at 12 MPH","Tropical Storm",Claudette,"2021-06-19 08:00:09",Cangialosi
+8,"2021-06-19 16:00:00",31,-89.7,40,1007,"NNE at 14 MPH","Tropical Storm",Claudette,"2021-06-19 10:48:30",Cangialosi
+8A,"2021-06-19 19:00:00",31.8,-88.6,40,1007,"NNE at 14 MPH","Tropical Storm",Claudette,"2021-06-19 13:45:32",Cangialosi
+9,"2021-06-19 22:00:00",32.2,-87.9,35,1007,"NE at 16 MPH","Tropical Depression",Claudette,"2021-06-19 16:51:18",Cangialosi
+9A,"2021-06-20 01:00:00",32.4,-87.7,35,1005,"NE at 15 MPH","Tropical Depression",Claudette,"2021-06-19 19:53:49",Beven
+10,"2021-06-20 04:00:00",32.6,-87,30,1005,"NE at 14 MPH","Tropical Depression",Claudette,"2021-06-19 22:45:41",Beven
+10A,"2021-06-20 07:00:00",32.9,-86.7,30,1006,"NE at 13 MPH","Tropical Depression",Claudette,"2021-06-20 01:57:21",Blake
+11,"2021-06-20 10:00:00",33.3,-85.8,30,1006,"ENE at 13 MPH","Tropical Depression",Claudette,"2021-06-20 04:54:20",Blake
+11A,"2021-06-20 13:00:00",33.7,-84.8,30,1007,"ENE at 13 MPH","Tropical Depression",Claudette,"2021-06-20 07:51:02",Brown
+12,"2021-06-20 16:00:00",33.8,-84.2,30,1009,"ENE at 17 MPH","Tropical Depression",Claudette,"2021-06-20 10:54:26",Brown
+12A,"2021-06-20 19:00:00",33.9,-83.5,30,1009,"ENE at 17 MPH","Tropical Depression",Claudette,"2021-06-20 13:54:16",Brown
+13,"2021-06-20 22:00:00",34.2,-82.5,30,1009,"ENE at 17 MPH","Tropical Depression",Claudette,"2021-06-20 16:45:36",Brown
+13A,"2021-06-21 01:00:00",34.4,-81.3,30,1008,"ENE at 17 MPH","Tropical Depression",Claudette,"2021-06-20 20:00:27",Pasch
+14,"2021-06-21 04:00:00",34.7,-80.4,35,1008,"ENE at 20 MPH","Tropical Depression",Claudette,"2021-06-20 22:51:37",Pasch
+14A,"2021-06-21 07:00:00",35.1,-79.1,35,1008,"ENE at 20 MPH","Tropical Depression",Claudette,"2021-06-21 01:27:43",Reinhart/Blake
+15,"2021-06-21 10:00:00",35.6,-77.6,40,1007,"ENE at 25 MPH","Tropical Storm",Claudette,"2021-06-21 04:48:28",Reinhart/Blake
+15A,"2021-06-21 13:00:00",36.4,-76.3,40,1007,"ENE at 28 MPH","Tropical Storm",Claudette,"2021-06-21 08:06:29",Stewart
+16,"2021-06-21 16:00:00",37,-75,40,1007,"ENE at 28 MPH","Tropical Storm",Claudette,"2021-06-21 11:03:23",Stewart
+17,"2021-06-21 22:00:00",37.5,-72.1,45,1004,"ENE at 29 MPH","Tropical Storm",Claudette,"2021-06-21 16:39:24",Stewart
+18,"2021-06-22 04:00:00",39,-69,45,1004,"ENE at 29 MPH",Remnants,Claudette,"2021-06-21 23:15:29",Pasch
+1,"2021-06-28 16:00:00",31.9,-78.3,35,1013,"WNW at 16 MPH","Tropical Depression",Four,"2021-06-28 10:50:40",Stewart
+1A,"2021-06-28 19:00:00",32.2,-79.3,35,1013,"WNW at 16 MPH","Tropical Depression",Four,"2021-06-28 13:53:38",Stewart
+2,"2021-06-28 22:00:00",32.3,-80.1,45,1009,"WNW at 16 MPH","Tropical Storm",Danny,"2021-06-28 16:45:06",Stewart
+2A,"2021-06-29 01:00:00",32.3,-80.5,40,1010,"WNW at 16 MPH","Tropical Storm",Danny,"2021-06-28 19:54:17",Cangialosi
+3,"2021-06-29 04:00:00",32.6,-81.5,35,1013,"WNW at 15 MPH","Tropical Depression",Danny,"2021-06-28 22:33:15",Cangialosi
+4,"2021-06-29 10:00:00",33,-83,25,1019,"WNW at 17 MPH",Remnants,Danny,"2021-06-29 04:50:37",Latto
+1,"2021-06-30 22:00:00",9.6,-43.7,35,1008,"WNW at 21 MPH","Potential Tropical Cyclone",Five,"2021-06-30 17:06:33",Beven
+1A,"2021-07-01 01:00:00",9.6,-44.6,35,1008,"WNW at 21 MPH","Potential Tropical Cyclone",Five,"2021-06-30 19:51:15",Brown/Papin
+2,"2021-07-01 04:00:00",9.6,-46.3,35,1008,"W at 23 MPH","Tropical Depression",Five,"2021-06-30 22:57:14",Papin/Brown
+2A,"2021-07-01 07:00:00",9.5,-47.4,35,1007,"W at 24 MPH","Tropical Depression",Five,"2021-07-01 01:54:14",Pasch
+3,"2021-07-01 10:00:00",9.4,-48.8,40,1006,"W at 25 MPH","Tropical Storm",Elsa,"2021-07-01 05:00:14",Pasch
+3A,"2021-07-01 13:00:00",9.6,-50.2,40,1006,"W at 25 MPH","Tropical Storm",Elsa,"2021-07-01 08:03:03",Beven
+4,"2021-07-01 16:00:00",10.1,-51.4,45,1006,"W at 28 MPH","Tropical Storm",Elsa,"2021-07-01 10:54:23",Beven
+4A,"2021-07-01 19:00:00",10.6,-52.6,45,1005,"WNW at 28 MPH","Tropical Storm",Elsa,"2021-07-01 13:51:01",Beven
+5,"2021-07-01 22:00:00",11.2,-53.8,45,1005,"WNW at 29 MPH","Tropical Storm",Elsa,"2021-07-01 16:57:24",Beven
+5A,"2021-07-02 01:00:00",11.4,-54.7,45,1005,"WNW at 28 MPH","Tropical Storm",Elsa,"2021-07-01 19:54:27",Brown/Papin
+6,"2021-07-02 04:00:00",11.8,-55.9,50,1003,"WNW at 26 MPH","Tropical Storm",Elsa,"2021-07-01 22:54:41",Papin/Brown
+6A,"2021-07-02 07:00:00",12.1,-57.2,50,1003,"WNW at 26 MPH","Tropical Storm",Elsa,"2021-07-02 01:54:36",Cangialosi/Berg
+7,"2021-07-02 10:00:00",12.7,-58.6,60,1001,"WNW at 28 MPH","Tropical Storm",Elsa,"2021-07-02 05:00:20",Cangialosi/Berg
+8,"2021-07-02 13:30:00",13.1,-60.1,75,995,"WNW at 28 MPH",Hurricane,Elsa,"2021-07-02 08:30:11",Beven
+9,"2021-07-02 16:00:00",13.4,-61.2,75,995,"WNW at 29 MPH",Hurricane,Elsa,"2021-07-02 11:14:45",Beven
+9A,"2021-07-02 19:00:00",13.7,-62.5,85,991,"WNW at 29 MPH",Hurricane,Elsa,"2021-07-02 14:05:55",Beven
+10,"2021-07-02 22:00:00",14.2,-63.7,85,991,"W at 30 MPH",Hurricane,Elsa,"2021-07-02 17:00:15",Beven
+10A,"2021-07-03 01:00:00",14.4,-65.1,85,995,"WNW at 30 MPH",Hurricane,Elsa,"2021-07-02 20:00:22",Stewart/Papin
+11,"2021-07-03 04:00:00",14.8,-66.3,80,995,"WNW at 29 MPH",Hurricane,Elsa,"2021-07-02 23:09:20",Stewart/Papin
+11A,"2021-07-03 07:00:00",15.5,-67.8,80,998,"WNW at 29 MPH",Hurricane,Elsa,"2021-07-03 02:00:22",Cangialosi/Berg
+12,"2021-07-03 10:00:00",16.2,-69,75,998,"WNW at 31 MPH",Hurricane,Elsa,"2021-07-03 04:42:16",Cangialosi/Berg
+12A,"2021-07-03 13:00:00",16.5,-70.3,75,999,"WNW at 31 MPH",Hurricane,Elsa,"2021-07-03 08:02:55",Beven
+13,"2021-07-03 16:00:00",17,-71.6,70,999,"WNW at 29 MPH","Tropical Storm",Elsa,"2021-07-03 10:57:36",Beven
+13A,"2021-07-03 19:00:00",17.3,-73,70,1002,"WNW at 29 MPH","Tropical Storm",Elsa,"2021-07-03 13:57:28",Beven
+14,"2021-07-03 22:00:00",17.5,-73.9,70,1000,"WNW at 28 MPH","Tropical Storm",Elsa,"2021-07-03 16:57:19",Beven
+14A,"2021-07-04 01:00:00",17.8,-74.7,70,998,"WNW at 23 MPH","Tropical Storm",Elsa,"2021-07-03 20:06:18",Stewart/Papin
+15,"2021-07-04 04:00:00",17.9,-75.3,65,1004,"WNW at 17 MPH","Tropical Storm",Elsa,"2021-07-03 22:53:54",Stewart/Papin
+15A,"2021-07-04 07:00:00",17.9,-75.1,65,1007,"WNW at 14 MPH","Tropical Storm",Elsa,"2021-07-04 01:45:17",Cangialosi/Reinhart
+16,"2021-07-04 10:00:00",18.1,-75.5,65,1006,"WNW at 14 MPH","Tropical Storm",Elsa,"2021-07-04 04:45:04",Cangialosi/Reinhart
+16A,"2021-07-04 13:00:00",18.3,-76.2,65,1007,"WNW at 13 MPH","Tropical Storm",Elsa,"2021-07-04 08:06:04",Pasch/Roberts
+17,"2021-07-04 16:00:00",18.7,-76.8,60,1009,"WNW at 13 MPH","Tropical Storm",Elsa,"2021-07-04 11:03:28",Pasch/Roberts
+17A,"2021-07-04 19:00:00",19.3,-77.4,60,1009,"NW at 14 MPH","Tropical Storm",Elsa,"2021-07-04 13:53:57",Pasch
+18,"2021-07-04 22:00:00",19.8,-77.9,60,1009,"NW at 14 MPH","Tropical Storm",Elsa,"2021-07-04 16:54:14",Pasch
+18A,"2021-07-05 01:00:00",20.2,-78.7,60,1005,"NW at 15 MPH","Tropical Storm",Elsa,"2021-07-04 20:06:35",Stewart
+19,"2021-07-05 04:00:00",20.6,-79.2,65,1004,"NW at 15 MPH","Tropical Storm",Elsa,"2021-07-04 23:09:22",Stewart
+19A,"2021-07-05 07:00:00",20.8,-79.6,65,1004,"NW at 15 MPH","Tropical Storm",Elsa,"2021-07-05 01:47:59",Cangialosi/Reinhart
+20,"2021-07-05 10:00:00",21,-79.9,65,1004,"NW at 14 MPH","Tropical Storm",Elsa,"2021-07-05 04:38:32",Cangialosi/Reinhart
+20A,"2021-07-05 13:00:00",21.4,-80.7,65,1006,"NW at 14 MPH","Tropical Storm",Elsa,"2021-07-05 07:51:26",Pasch/Roberts
+21,"2021-07-05 16:00:00",21.5,-81.2,65,1006,"NW at 14 MPH","Tropical Storm",Elsa,"2021-07-05 11:09:04",Pasch/Roberts
+21A,"2021-07-05 19:00:00",22.2,-81.6,60,1007,"NW at 14 MPH","Tropical Storm",Elsa,"2021-07-05 13:54:14",Pasch/Roberts
+22,"2021-07-05 22:00:00",22.7,-81.9,50,1008,"NW at 14 MPH","Tropical Storm",Elsa,"2021-07-05 16:54:22",Pasch/Brown
+22A,"2021-07-06 01:00:00",22.9,-81.9,50,1008,"NW at 13 MPH","Tropical Storm",Elsa,"2021-07-05 20:00:32",Stewart/Latto
+23,"2021-07-06 04:00:00",23.5,-82.3,60,1007,"NNW at 12 MPH","Tropical Storm",Elsa,"2021-07-05 23:00:46",Stewart/Latto
+23A,"2021-07-06 07:00:00",23.9,-82.3,60,1007,"NNW at 12 MPH","Tropical Storm",Elsa,"2021-07-06 01:45:37",Cangialosi/Reinhart
+24,"2021-07-06 10:00:00",24.1,-82.4,60,1007,"NNW at 12 MPH","Tropical Storm",Elsa,"2021-07-06 05:03:18",Cangialosi/Reinhart
+24A,"2021-07-06 13:00:00",24.5,-82.6,60,1007,"NNW at 12 MPH","Tropical Storm",Elsa,"2021-07-06 07:57:08",Pasch/Papin
+25,"2021-07-06 16:00:00",24.9,-82.8,60,1007,"NNW at 10 MPH","Tropical Storm",Elsa,"2021-07-06 11:00:14",Pasch/Brown/Papin
+26,"2021-07-06 19:00:00",25.4,-83,70,1000,"N at 9 MPH","Tropical Storm",Elsa,"2021-07-06 14:15:19",Pasch
+27,"2021-07-06 22:00:00",25.8,-83,70,998,"N at 10 MPH","Tropical Storm",Elsa,"2021-07-06 16:45:36",Pasch/Brown/Papin
+27A,"2021-07-07 01:00:00",26.6,-83.1,75,996,"N at 14 MPH",Hurricane,Elsa,"2021-07-06 19:42:44",Stewart/Latto
+28,"2021-07-07 04:00:00",27.3,-83.2,75,997,"N at 14 MPH",Hurricane,Elsa,"2021-07-06 23:00:20",Stewart
+28A,"2021-07-07 07:00:00",27.9,-83.5,70,1004,"N at 14 MPH","Tropical Storm",Elsa,"2021-07-07 01:53:54",Beven
+29,"2021-07-07 10:00:00",28.5,-83.5,65,1004,"N at 14 MPH","Tropical Storm",Elsa,"2021-07-07 05:03:26",Beven
+29A,"2021-07-07 13:00:00",29.2,-83.6,65,999,"N at 14 MPH","Tropical Storm",Elsa,"2021-07-07 08:03:23",Pasch/Papin/Brown
+30,"2021-07-07 16:00:00",29.9,-83.6,65,999,"N at 14 MPH","Tropical Storm",Elsa,"2021-07-07 11:06:15",Pasch/Papin/Brown
+30A,"2021-07-07 19:00:00",30.3,-83.5,50,1002,"N at 14 MPH","Tropical Storm",Elsa,"2021-07-07 14:12:25",Pasch/Papin/Brown
+31,"2021-07-07 22:00:00",30.8,-83.4,45,1003,"N at 14 MPH","Tropical Storm",Elsa,"2021-07-07 17:09:37",Pasch/Papin/Brown
+31A,"2021-07-08 01:00:00",31.4,-82.7,45,1006,"NNE at 14 MPH","Tropical Storm",Elsa,"2021-07-07 20:03:39",Blake
+32,"2021-07-08 04:00:00",32.1,-82.3,45,1006,"NNE at 16 MPH","Tropical Storm",Elsa,"2021-07-07 23:12:16",Blake
+32A,"2021-07-08 07:00:00",32.7,-82,45,1007,"NNE at 16 MPH","Tropical Storm",Elsa,"2021-07-08 02:09:19",Beven
+33,"2021-07-08 10:00:00",33.4,-81.3,40,1007,"NE at 18 MPH","Tropical Storm",Elsa,"2021-07-08 04:54:06",Beven
+33A,"2021-07-08 13:00:00",34.2,-80.5,40,1006,"NE at 18 MPH","Tropical Storm",Elsa,"2021-07-08 08:00:19",Pasch/Papin
+34,"2021-07-08 16:00:00",35,-79.7,45,1006,"NE at 20 MPH","Tropical Storm",Elsa,"2021-07-08 11:03:08",Pasch/Papin
+34A,"2021-07-08 19:00:00",35.6,-79,45,1007,"NE at 20 MPH","Tropical Storm",Elsa,"2021-07-08 14:06:08",Pasch/Papin
+35,"2021-07-08 22:00:00",36.3,-78.3,50,1006,"NE at 21 MPH","Tropical Storm",Elsa,"2021-07-08 16:51:17",Pasch
+35A,"2021-07-09 01:00:00",36.8,-77.4,50,1004,"NE at 21 MPH","Tropical Storm",Elsa,"2021-07-08 19:54:13",Blake
+36,"2021-07-09 04:00:00",37.6,-76.5,50,1002,"NE at 25 MPH","Tropical Storm",Elsa,"2021-07-08 22:45:38",Blake
+36A,"2021-07-09 07:00:00",38.3,-75.7,50,1002,"NE at 25 MPH","Tropical Storm",Elsa,"2021-07-09 01:48:06",Stewart/Latto
+37,"2021-07-09 10:00:00",39.4,-74.3,50,1000,"NE at 31 MPH","Tropical Storm",Elsa,"2021-07-09 04:50:35",Stewart
+37A,"2021-07-09 13:00:00",40.2,-73.1,50,1000,"NE at 31 MPH","Tropical Storm",Elsa,"2021-07-09 07:56:55",Brown/Zelinsky
+38,"2021-07-09 16:00:00",41,-72.1,50,1000,"NE at 31 MPH","Tropical Storm",Elsa,"2021-07-09 11:03:04",Brown
+38A,"2021-07-09 19:00:00",42,-71,50,999,"NE at 31 MPH","Post-Tropical Cyclone",Elsa,"2021-07-09 13:57:26",Brown/Zelinsky
+39,"2021-07-09 22:00:00",43,-69.5,50,999,"NE at 35 MPH","Post-Tropical Cyclone",Elsa,"2021-07-09 16:45:06",Zelinsky
